@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "166877761253",
+    "firebase_url": "https://locklogin-c6186-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "project_id": "locklogin-c6186",
+    "storage_bucket": "locklogin-c6186.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166877761253:android:83d3d376ed88501c45ce0c",
+        "android_client_info": {
+          "package_name": "com.example.smartlock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARLQFuXpCWEydTItZLFEI6kpBnyuafKv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
